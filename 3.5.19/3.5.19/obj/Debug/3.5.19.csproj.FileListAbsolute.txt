@@ -1,0 +1,10 @@
+C:\Users\Ömer\Desktop\Belgeler\Visual Studio\3.5.19\3.5.19\obj\Debug\_3._5._19.Form1.resources
+C:\Users\Ömer\Desktop\Belgeler\Visual Studio\3.5.19\3.5.19\obj\Debug\_3._5._19.Properties.Resources.resources
+C:\Users\Ömer\Desktop\Belgeler\Visual Studio\3.5.19\3.5.19\obj\Debug\3.5.19.csproj.GenerateResource.cache
+C:\Users\Ömer\Desktop\Belgeler\Visual Studio\3.5.19\3.5.19\obj\Debug\3.5.19.csproj.CoreCompileInputs.cache
+C:\Users\Ömer\Desktop\Belgeler\Visual Studio\3.5.19\3.5.19\bin\Debug\3.5.19.exe.config
+C:\Users\Ömer\Desktop\Belgeler\Visual Studio\3.5.19\3.5.19\bin\Debug\3.5.19.exe
+C:\Users\Ömer\Desktop\Belgeler\Visual Studio\3.5.19\3.5.19\bin\Debug\3.5.19.pdb
+C:\Users\Ömer\Desktop\Belgeler\Visual Studio\3.5.19\3.5.19\obj\Debug\3.5.19.exe
+C:\Users\Ömer\Desktop\Belgeler\Visual Studio\3.5.19\3.5.19\obj\Debug\3.5.19.pdb
+C:\Users\Ömer\Desktop\Belgeler\Visual Studio\3.5.19\3.5.19\obj\Debug\3.5.19.csprojAssemblyReference.cache
